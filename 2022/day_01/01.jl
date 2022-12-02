@@ -1,4 +1,4 @@
-vector_lines = readlines("input1.txt")
+vector_lines = readlines("input.txt")
 
 function get_calories(lines::Vector{String})
     tmp_calories = 0
